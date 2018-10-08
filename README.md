@@ -42,5 +42,5 @@
 ![首页展示](https://github.com/anycodes/SentimentAnalysis/blob/master/picDic/5.png?raw=true)
 * loss与accurate图
 ![首页展示](https://github.com/anycodes/SentimentAnalysis/blob/master/picDic/6.png?raw=true)
-*运行结果截图（部分）
+* 运行结果截图（部分）
 ![首页展示](https://github.com/anycodes/SentimentAnalysis/blob/master/picDic/7.png?raw=true)
