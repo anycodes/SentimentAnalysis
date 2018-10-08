@@ -1,0 +1,5 @@
+model_checkpoint_path: "jd_comments_181_7_model.model.lstm_model-40000"
+all_model_checkpoint_paths: "jd_comments_181_7_model.model.lstm_model-10000"
+all_model_checkpoint_paths: "jd_comments_181_7_model.model.lstm_model-20000"
+all_model_checkpoint_paths: "jd_comments_181_7_model.model.lstm_model-30000"
+all_model_checkpoint_paths: "jd_comments_181_7_model.model.lstm_model-40000"
